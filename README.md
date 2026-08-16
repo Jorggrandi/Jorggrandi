@@ -38,6 +38,9 @@ Estou construindo uma base sólida em desenvolvimento **da forma certa**: fundam
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX%2FUI%20Design-FF61F6?style=for-the-badge&logo=figma&logoColor=white)
+![Heurísticas de Nielsen](https://img.shields.io/badge/Heur%C3%ADsticas%20de%20Nielsen-6E56CF?style=for-the-badge)
 
 ### 📚 Estou aprendendo agora
 
