@@ -10,8 +10,8 @@ Estou construindo uma base sólida em desenvolvimento **da forma certa**: fundam
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/seu-usuario">
-    <img src="https://img.shields.io/badge/GitHub-Jorggrandi-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Jorggrandi">
+    <img src="https://img.shields.io/badge/GitHub-JORGGRANDI-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/i_am_jorge_">
     <img src="https://img.shields.io/badge/Instagram-@i__am__jorge__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -62,6 +62,12 @@ Estou construindo uma base sólida em desenvolvimento **da forma certa**: fundam
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/CyberSec-black?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+
+---
+
+## 📌 Projeto em destaque
+
+**Mural de Recados** — API REST construída com Fastify + MySQL, usando queries parametrizadas (chega de SQL Injection), separação entre nomes de campos da API e colunas do banco, e front em JS puro consumindo tudo via `fetch`. Deploy planejado: frontend na Vercel, backend + banco no Railway.
 
 ---
 
